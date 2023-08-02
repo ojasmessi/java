@@ -3,7 +3,7 @@
          1               n = 5 
        2 1 2           space = n - i
      3 2 1 2 3         left part (2 to 1, 3 to 1, 4 to 1, 5 to 1)  =  i to 1 (backward loop)
-   4 3 2 1 2 3 4       right par (2 , 2 to 3, 2 to 4, 2 to 5 )  =  2 to i (forward loop)
+   4 3 2 1 2 3 4       right par (2 , 2 to 3, 2 to 4, 2 to 5 )  =  2 to i    (forward loop)
  5 4 3 2 1 2 3 4 5
  */
 public class pattern13 {
