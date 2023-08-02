@@ -1,5 +1,5 @@
 /*
- pattern: 
+ pattern:   
      *
     **   
    ***
