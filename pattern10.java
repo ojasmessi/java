@@ -1,4 +1,4 @@
-Butterfly Pattern
+
 /*
  pattern: 
 *      *
