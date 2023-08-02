@@ -9,9 +9,9 @@ public class pattern3 {
 
         int n = 4;
 
-        // outer loop
+        // outer loop -> rows
         for (int i = 1; i <= n; i++) {
-            // inner loop
+            // inner loop -> stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");
             }
