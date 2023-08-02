@@ -1,7 +1,7 @@
 /*
  pattern: 
  1     row(i) -> 1 to n
- 12    columns(j)  -> 1 to i
+ 12    columns(j)  -> 1 to i  
  123
  1234
  12345
