@@ -1,6 +1,6 @@
 //In this pattern the number of rows is number of columns.
 // *   row 1 -> 1 column
-// **  row 2 -> 2 columns and so on....
+// **  row 2 -> 2 columns and so on..
 // ***  
 // ****
 
