@@ -1,4 +1,4 @@
-/*
+ /*
  pattern:
     *****    n = 5 
    *****   space = n - i
