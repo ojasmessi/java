@@ -1,4 +1,4 @@
-//In this pattern the number of rows is number of columns.(inverted pattern3)
+//In this pattern the number of rows is number of columns.
 // ****   
 // ***  
 // **  
