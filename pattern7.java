@@ -3,7 +3,7 @@
  12345
  1234
  123
- 12
+ 12  
  1
  */
 public class pattern7 {
