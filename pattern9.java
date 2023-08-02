@@ -3,7 +3,7 @@
 1
 01
 101
-0101
+0101   
 10101
  */
 public class pattern9 {
