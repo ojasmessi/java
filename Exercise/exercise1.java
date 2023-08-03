@@ -1,23 +1,26 @@
+//Enter 3 numbers from the user & make a function to print their average.
+
 package Exercise;
 
 import java.util.Scanner;
 
 public class exercise1 {
 
-    public static int printAverage(int a, int b, int c) {
-        int avg = a + b + c / 3;
-        return avg;
+    public static float printAverage(float a, float b, float c) {
+        float sum = (a + b + c) / 3;
+
+        return sum;
+
     }
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        int c = sc.nextInt();
+        float a = sc.nextFloat();
+        float b = sc.nextFloat();
+        float c = sc.nextFloat();
 
-        int avg = printAverage(a, b, c);
-        System.out.println("Average of 3 numbers are: " +avg);
-       
-
+        float sum = printAverage(a, b, c);
+        System.out.println("Average of 3 numbers are: " + sum);
+//System.out.println(average(a,b,c))
     }
 }
