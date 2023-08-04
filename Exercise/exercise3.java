@@ -15,14 +15,13 @@ public class exercise3 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter first number:");
+        System.out.print("Enter first number: ");
         int a = sc.nextInt();
-        System.out.println("Enter second number:");
+        System.out.print("Enter second number: ");
         int b = sc.nextInt();
 
+        System.out.println("Greater number is: " + getGreater(a, b));
 
-        System.out.println("Greater number is:");
-        System.out.println(getGreater(a, b));
     }
 
 }
