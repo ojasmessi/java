@@ -23,7 +23,7 @@ public class arrays {
         // System.out.println(marks[1]);
         // System.out.println(marks[2]);
 
-        // input
+        // input 
         for (int i = 0; i < size; i++) {
             numbers[i] = sc.nextInt();
         }
